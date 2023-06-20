@@ -3,6 +3,8 @@ vite starting template Pozitron + JSX
 
 [Pozitron](https://github.com/NesCafe62/pozitron) is ultra-minimalistic reactive library
 
+jsx support provided by [vite-plugin-pozitron](https://github.com/NesCafe62/vite-plugin-pozitron)
+
 ## jsx
 ```jsx
 import { signal } from 'pozitron-js';
