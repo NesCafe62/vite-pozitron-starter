@@ -1,18 +1,21 @@
 {
-  "name": "vite-pozitron",
-  "version": "0.0.0",
-  "description": "",
-  "scripts": {
-    "start": "vite",
-    "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "vite": "^2.9.16"
-  },
-  "dependencies": {
-    "pozitron-js": "https://github.com/NesCafe62/pozitron.git#main"
-  }
+	"name": "vite-pozitron",
+	"version": "0.0.0",
+	"description": "",
+	"scripts": {
+		"start": "vite",
+		"dev": "vite",
+		"build": "vite build",
+		"serve": "vite preview"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"@babel/core": "^7.19.3",
+		"vite": "^2.9.16"
+	},
+	"dependencies": {
+		"@babel/plugin-syntax-jsx": "^7.18.6",
+		"@babel/types": "^7.19.4",
+		"pozitron-js": "git+https://github.com/NesCafe62/pozitron.git#main"
+	}
 }
