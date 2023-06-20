@@ -17,7 +17,7 @@ start for development
 $ npm start
 ```
 
-build project. results saved to `./dst`
+build project. results saved to `./dist`
 ```sh
 $ npm run build
 ```
