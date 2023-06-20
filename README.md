@@ -1,9 +1,31 @@
-# Pozitron JSX App
-vite starting template Pozitron + JSX
+# Vite Pozitron starter App
+vite starter template Pozitron + JSX
 
 [Pozitron](https://github.com/NesCafe62/pozitron) is ultra-minimalistic reactive library
 
 jsx support provided by [vite-plugin-pozitron](https://github.com/NesCafe62/vite-plugin-pozitron)
+
+## install
+```sh
+$ cd project-path
+$ git clone https://github.com/NesCafe62/vite-pozitron-starter .
+$ npm install
+```
+
+start for development
+```sh
+$ npm start
+```
+
+build project. results saved to `./dst`
+```sh
+$ npm run build
+```
+
+preview production build
+```sh
+$ npm run serve
+```
 
 ## jsx
 ```jsx
