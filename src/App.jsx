@@ -1,7 +1,6 @@
 import { signal } from 'pozitron-js';
-import { h } from 'pozitron-js/render';
 
-function App() {
+function Counter() {
     const [count, setCount] = signal(0);
 
 	function increment() {
@@ -9,9 +8,13 @@ function App() {
 	}
 
 	return (
-		<>
-			<button onClick={increment}>Count: {count}</button>
-		</>
+		<button onClick={increment}>Count: {count}</button>
+	);
+}
+
+function App() {
+	return (
+		<Counter></Counter>
 	);
 }
 
