@@ -1,6 +1,15 @@
 # Vite Pozitron starter App
 vite starter template Pozitron + JSX
 
+*not production ready!*
+
+Features required to implement:
+* reactive stores
+* class and other properties special handling
+* lists/For, if-s
+* destroying reactions (effects) with no dependencies, unmounts (removing event listeners)
+* events delegation
+
 [Pozitron](https://github.com/NesCafe62/pozitron) is ultra-minimalistic reactive library
 
 jsx support provided by [vite-plugin-pozitron](https://github.com/NesCafe62/vite-plugin-pozitron)
