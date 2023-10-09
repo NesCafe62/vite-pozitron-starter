@@ -10,8 +10,8 @@
 	},
 	"license": "MIT",
 	"devDependencies": {
-		"vite-plugin-pozitron": "git+https://github.com/NesCafe62/vite-plugin-pozitron.git#main",
-		"vite": "^4.1.1"
+		"vite": "^4.4.11",
+		"vite-plugin-pozitron": "git+https://github.com/NesCafe62/vite-plugin-pozitron.git#main"
 	},
 	"dependencies": {
 		"pozitron-js": "git+https://github.com/NesCafe62/pozitron.git#main"
