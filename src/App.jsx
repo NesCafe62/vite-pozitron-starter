@@ -1,7 +1,7 @@
 import { signal } from 'pozitron-js';
 
 function Counter() {
-    const [count, setCount] = signal(0);
+	const [count, setCount] = signal(0);
 
 	function increment() {
 		setCount(count() + 1);
