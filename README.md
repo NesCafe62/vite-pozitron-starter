@@ -1,6 +1,8 @@
 # Vite Pozitron starter App
 vite starter template Pozitron + JSX
 
+[StackBlitz demo](https://stackblitz.com/edit/nescafe62-vite-pozitron-starter-fdrbpv)
+
 [CodeSandbox demo](https://codesandbox.io/p/sandbox/pozitron-jsx-app-demo-7hfx7g)
 
 *not production ready!*
