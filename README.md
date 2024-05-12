@@ -8,12 +8,12 @@ vite starter template Pozitron + JSX
 *not production ready!*
 
 Features required to implement:
-* cyclic references detection (!)
-* reactive stores
-* class and other properties special handling
-* lists/For, if-s
-* destroying reactions (effects) with no dependencies, unmounts (removing event listeners)
-* events delegation
+- [ ] cyclic references detection (!)
+- [ ] reactive stores
+- [X] class and other properties special handling
+- [ ] lists/For, if-s
+- [ ] destroying reactions (effects) with no dependencies, unmounts (removing event listeners)
+- [ ] events delegation
 
 [Pozitron](https://github.com/NesCafe62/pozitron) is ultra-minimalistic reactive library
 
